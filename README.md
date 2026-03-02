@@ -1,13 +1,33 @@
-<main style="height: 200dvh; background-color: rgb(204, 203, 209); color: rgb(30, 30, 30); font-family: MonaSans, sans-serif;">
-  <section id="index" style="width:100%; height:80dvh; display:flex; flex-direction:column; align-items:start; justify-content:space-between;">
-    <div class="controlTitle" style="margin-left:5dvh; display:flex; flex-direction:column; align-items:start; justify-content:center;">
-      <div class="title" style="font-size:clamp(6dvh, 8dvw, 13dvh); line-height:clamp(5.5dvh, 7.5dvw, 12dvh); font-weight:bolder;">
-        <div class="controlSkills" style="display:flex; justify-content:space-between; width:95dvh; align-items:center;">
-          <div class="lebel">
-            <span style="font-weight:500;">S</span><span>e</span><span>l</span><span>f</span><span>-</span><span>t</span><span>a</span><span>u</span><span>g</span><span>h</span><span>t</span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-</main>
+# Hi, I'm Khwaish 👋
+
+I'm a web developer and VBA developer passionate about building interactive websites and automating tasks.  
+
+---
+
+## 🔧 Tech Stack
+
+- **Front-end:** HTML, CSS, JavaScript, React (basic), Qwik (basic)
+- **Animations & Effects:** GSAP (advanced), Lenis
+- **Tools:** Git, GitHub, VS Code, Vite
+- **Other Skills:** VBA, Japanese (learning)
+
+---
+
+## 📈 GitHub Stats
+
+![Khwaish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+- React (deep dive)
+- Advanced Japanese
+- Optimizing website performance
+
+---
+
+## 📫 Contact Me
+
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
