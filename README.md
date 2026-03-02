@@ -5,8 +5,6 @@
 I build high-performance, interactive web experiences with clean UI and smooth animations.  
 Focused on performance, motion design, and modern front-end architecture.
 
----
-
 ## 🚀 Tech Stack
 
 ### 🖥 Front-End
@@ -38,8 +36,6 @@ Focused on performance, motion design, and modern front-end architecture.
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
 ## 🎯 Current Focus
 
 - Deepening React knowledge  
@@ -47,14 +43,10 @@ Focused on performance, motion design, and modern front-end architecture.
 - Advanced motion architecture with GSAP  
 - Japanese language learning 🇯🇵  
 
----
-
 ## 📬 Connect
 
 - Portfolio: https://yourwebsite.com  
 - LinkedIn: https://linkedin.com/in/yourprofile  
 - Email: your.email@example.com  
-
----
 
 > “Consistency beats intensity.”
