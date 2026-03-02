@@ -1,3 +1,263 @@
+<style>
+  
+@font-face {
+  font-family: 'MonaSans';
+  src: url('/static/MonaSans-Medium.woff2') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap; /* ensures fallback text shows immediately */
+}
+
+:root {
+    --mainThemeColor2-: rgb(207, 85, 101);
+    --mainThemeColor-: rgb(85, 103, 207);
+
+    --regularTextColor-: rgb(30, 30, 30);
+    --regularTextColorGray-: rgb(170, 170, 170);
+    --regularBackgroundcolor-: rgb(204, 203, 209);
+    --regularBackgroundcolorLight-: rgb(223, 222, 228);
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "MonaSans", sans-serif;
+
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a {
+    color: var(--regularTextColor-);
+}
+
+body {
+    background-color: var(--regularBackgroundcolor-);
+    color: var(--regularTextColor-);
+}
+
+::selection {
+    background-color: var(--mainThemeColor-);
+    color: var(--regularBackgroundcolor-);
+}
+
+/* header */
+header {
+    width: 100%;
+    height: 20dvh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoContainer {
+    margin-left: 10dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoContainer a {
+    font-size: 2.6dvh;
+}
+
+.navContainer {
+    margin-right: 10dvh;
+}
+
+.navContainer ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 60dvh;
+}
+
+.navContainer ul li {
+    list-style: none;
+
+    height: 3dvh;
+    overflow: hidden;
+
+}
+
+.navContainer ul li a div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3dvh;
+}
+
+.navContainer ul li a div span {
+    font-size: 2.6dvh;
+    font-weight: 500;
+}
+
+/* header */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* main */
+main {
+    height: 200dvh;
+}
+
+#index {
+    width: 100%;
+    height: 80dvh;
+
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.controlTitle {
+    margin-left: 5dvh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.controlTitle .title {
+    font-size: clamp(6dvh, 8dvw, 13dvh);
+    line-height: clamp(5.5dvh, 7.5dvw, 12dvh);
+    font-weight: bolder;
+}
+
+.controlTitle .title .controlSkills {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 95dvh;
+}
+
+.controlTitle .title .controlSkills .lebel {}
+
+.controlTitle .title .controlSkills .skillschanger {}
+
+.controlTitle .title .controlSkills .skillschanger .controlChanger {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 20dvh;
+}
+
+.controlTitle .title .controlSkills .skillschanger .controlChanger .Slots {
+    height: 4dvh;
+    width: 4dvh;
+
+    cursor: pointer;
+    position: relative;
+}
+
+.controlTitle .title .controlSkills .skillschanger .controlChanger .Slots::after {
+    display: block;
+    content: '';
+    width: 0dvh;
+    height: 0dvh;
+    border-radius: 50%;
+    border: 0.3dvh solid transparent;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: 0.2s ease-in-out;
+}
+
+.controlTitle .title .controlSkills .skillschanger .controlChanger .Slots::before {
+    display: block;
+    content: '';
+    height: 1dvh;
+    width: 1dvh;
+    background-color: var(--regularTextColor-);
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: 0.2s ease-in-out;
+}
+
+.controlTitle .title .controlSkills .skillschanger .controlChanger .Slots:hover::after {
+    width: 2.5dvh;
+    height: 2.5dvh;
+    border: 0.3dvh solid var(--regularTextColor-);
+
+}
+
+.controlTitle .title .controlSkills .skillschanger .controlChanger .Slots:hover::before {
+    width: 0dvh;
+    height: 0dvh;
+}
+
+.controlTitle .title span {
+    font-weight: bolder;
+}
+
+.controlTitle .text {
+    margin-top: 3dvh;
+    font-size: 2.2dvh;
+    font-weight: 500;
+    width: 61dvh;
+}
+
+span {
+    display: inline-block;
+}
+
+/* tag */
+
+#index .tag {
+    margin-left: 5dvh;
+    margin-bottom: 5dvh;
+}
+
+#index .tag span {
+    color: var(--regularTextColorGray-);
+
+    font-size: 1.8dvh;
+    /* font-family: var(--MonaSansLightFont-); */
+}
+</style>
+
 <main>
 <section id="index">
 <div class="controlTitle">
