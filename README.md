@@ -8,7 +8,7 @@ Focused on performance, motion design, and modern front-end architecture.
 ## 🚀 Tech Stack
 
 ### Front-End
-HTML · CSS · JavaScript · React · Qwik
+HTML · CSS · JavaScript · Qwik
 
 ### Animation & Motion
 GSAP · Lenis
