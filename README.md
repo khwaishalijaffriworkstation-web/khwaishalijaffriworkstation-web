@@ -1,4 +1,4 @@
-# Khwaish 👨‍💻
+# Khwaish
 
 ### Front-End Developer | Animation Specialist | VBA Developer
 
@@ -23,19 +23,6 @@ Focused on performance, motion design, and modern front-end architecture.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-### 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true)
-
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🎯 Current Focus
 
 - Deepening React knowledge  
@@ -45,8 +32,6 @@ Focused on performance, motion design, and modern front-end architecture.
 
 ## 📬 Connect
 
-- Portfolio: https://yourwebsite.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: your.email@example.com  
+- Email: khwaishalijaffri@gmail.com 
 
 > “Consistency beats intensity.”
